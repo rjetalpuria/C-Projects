@@ -1,6 +1,8 @@
 # Scabler.cpp
 This is your Scabler-buddy. It will help you in making the best word choices that earn you the most amount of points. ENJOY!
 
+To test it out yourself download the zip file.
+
 INPUT: The user can enter as many letters as they wish
 OUTPUT: A list of valid scrabble words with their points
 
@@ -12,5 +14,6 @@ HOW IT WORKS?
 -> Once all the words starting from all the given *NON-Duplicate* letters are processed, the scores are computed (based on
    the official Scrabble guidelines.
 -> Finally, all possible valid words are printed with their scores.
+
 
 Funfac: This was designed and coded within 24 hours.
