@@ -1,5 +1,5 @@
-# Scabler.cpp
-This is your Scabler-buddy. It will help you in making the best word choices that earn you the most amount of points. ENJOY!
+# Scabble Buddy.cpp
+This is your Scrabble-buddy. It will help you in making the best word choices that earn you the most amount of points. ENJOY!
 
 To test it out yourself download the zip file.
 
@@ -20,5 +20,11 @@ HOW IT WORKS?
 
 -> Finally, all possible valid words are printed with their scores.
 
-
 Funfac: This was designed and coded within 24 hours.
+
+[UPDATE: 05/07/2020]
+-> Added ability to filter out words based on an ending sequence of letters
+
+-> Documented the code for better readibily
+
+-> Fixed a bug where words starting from 'h' would not output
