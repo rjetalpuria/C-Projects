@@ -4,6 +4,7 @@ This is your Scrabble-buddy. It will help you in making the best word choices th
 To test it out yourself download the zip file.
 
 INPUT: The user can enter as many letters as they wish
+
 OUTPUT: A list of valid scrabble words with their points
 
 HOW IT WORKS?
